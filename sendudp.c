@@ -25,7 +25,7 @@ int main(int argc, char **argv) {
     int payloadLen=0;
     
     /* check command line arguments */
-    if (argc != 4) {
+    if (argc != 3) {
        fprintf(stderr,"usage: %s <port> <payload>\n", argv[0]);
        exit(0);
     }
