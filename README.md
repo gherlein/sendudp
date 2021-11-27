@@ -26,3 +26,6 @@ listening on enxd0374505d925, link-type EN10MB (Ethernet), capture size 1024 byt
 	0x0030:  0000                                     ..
 ```	
 
+## License
+
+(c) 2021 Greg Herlein, released under the MIT-0 license
